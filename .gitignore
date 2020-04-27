@@ -1,0 +1,9 @@
+**/*.pt
+**/*.pth
+
+/dataset
+/dataset_old
+/lightning_logs
+/checkpoints
+/android
+.vscode
